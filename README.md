@@ -22,6 +22,17 @@ Python_snippets/
 | Methods | Instance methods, class methods, `@classmethod` |
 | Inheritance | Parent/child classes, `super()` |
 | Object Interaction | Passing objects as arguments between methods |
+| Dunder Methods | `__str__`, `__repr__`, `__len__`, `__eq__`, operator overloading |
+
+## Upcoming Topics
+
+| Topic | Concepts to Cover |
+|-------|-------------------|
+| Decorators | `@staticmethod`, custom decorators, `functools.wraps` |
+| Iterators & Generators | `__iter__`, `__next__`, `yield`, lazy evaluation |
+| Context Managers | `with` statement, `__enter__`, `__exit__` |
+| Comprehensions | List, dict, set comprehensions + generator expressions |
+| Error Handling | Custom exceptions, `try/except/finally`, exception chaining |
 
 ## Tech Stack
 
